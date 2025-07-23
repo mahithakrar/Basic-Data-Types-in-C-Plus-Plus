@@ -16,4 +16,4 @@ Requirements:
 A C++ Compiler
 
 Conclusion:
-This simple program helps you understand how different data types work in C, how much memory they use, and how to use the sizeof operator. It's a fundamental step for writing efficient and error-free C programs.
+This program helps you learn the basic data types in C++ and how they behave in terms of memory usage and output. It's an essential foundation for writing more complex and type-safe C++ applications.
