@@ -1,6 +1,6 @@
 # Basic-Data-Types-in-C-Plus-Plus
 
-##Overview:
+Overview:
 This program explores some of the most commonly used data types in C++. The main objective is to understand how different types of data are stored in memory, how much space each occupies, and how to use them effectively in a program.
 
 C provides several built-in (primitive) data types, which define the type of data a variable can hold. The most commonly used are:
@@ -12,7 +12,7 @@ C provides several built-in (primitive) data types, which define the type of dat
 | `char`    | Single character              | 'A', 'z', '3'       |
 Each data type has a specific size in memory (which can vary by system) and is used for different types of operations.
 
-##Requirements:
+Requirements:
 A C++ Compiler
 
 ##Conclusion:
